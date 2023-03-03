@@ -1,0 +1,116 @@
+header{
+    color: #0078ff;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    font-weight: 625;
+    font-size: 1.1cm;
+    padding: 2%;
+    font-family: sans-serif;
+
+}
+a{
+    margin-top: 3%;
+    text-decoration-line: none;
+    display: block;
+    font-family: sans-serif;    
+}
+a:visited{
+    color: blueviolet;
+}
+body{
+    background-color: #f6f7f8;
+}
+.formheader
+{
+    height: 62;
+    width: 396;
+    display: block;
+    font-weight: bolder;
+    padding-top: 5%;
+    font-style: unset;
+    padding-bottom: 3%;
+    font-size: large;
+    font-weight: 50;
+    font-family: sans-serif;
+
+}
+form{ 
+    margin-top: 2%;
+}
+article{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: white;
+    height: 391px;
+    width: 396px;
+    min-width: auto;
+    min-height: auto;
+    border: solid 1px white;
+    border-radius: 6px;
+    box-shadow: 0px 0px 4px #a6a6a6;
+}
+
+.sign_in{
+    border: solid #e9ebee 1px;
+    border-radius: 5px;
+    height: 51px;
+    cursor: pointer;
+    width: 364px;
+    font-size: medium;
+    font-weight: 50;
+    font-family: sans-serif;
+    
+}
+.Password{
+    border: solid #e9ebee 1px;
+    border-radius: 5px;
+    height: 51px;
+    cursor: pointer;
+    width: 364px;
+    margin-top: 3%;
+    font-size: medium;
+    font-weight: 50;
+    font-family: sans-serif;
+}
+.login{
+    height: 51px;
+    cursor: pointer;
+    width: 364px;
+    margin-top: 3%;
+    background-color: #0078ff;
+    border-radius: 5px;
+    border: #0078ff solid 1px;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+
+}
+.Signup{
+    height: 48px;
+    cursor: pointer;
+    width: 192px;
+    margin-top: 3%;
+    background-color: #42b72a;
+    border-radius: 6px;
+    border: #42b72a solid 1px;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
+.orl
+{
+    margin-top: 2.5%;
+    width: 40%;
+    display: inline-block;
+}
+.orb
+{
+    width:10%;
+    display: inline-block;
+}
